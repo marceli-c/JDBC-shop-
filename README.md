@@ -35,7 +35,7 @@
 <br>Register and login feature,
 <br>Changing logged user information from GUI level.
 <br>TODO: Adding photo as a blob to particular item.
-<br> NOTE: Project is done for education purpose only, used photo of cat is not mine and its just for example.
+<br> NOTE: Project is done for education purpose only, used photo of cat is not mine and its just for example.<br>
 ![test 1](https://user-images.githubusercontent.com/112806657/194705183-f6c4f0ba-b45f-4525-9fef-c2eeccf702a5.PNG)
 ![widok admina](https://user-images.githubusercontent.com/112806657/194705186-c3f2110e-e843-437c-bff8-c979cb1f6124.PNG)
 ![widok uzytkownika](https://user-images.githubusercontent.com/112806657/194705187-5cf4267f-d107-4cd9-838a-1d49849530c3.PNG)
